@@ -1,0 +1,16 @@
+body{
+    background-color: orange;
+  }
+  strong{
+    font-size: 28px;
+    color:#fff;
+    font-weight: 600;
+    
+  }
+    p{
+      font-weight:400 ;
+      font-size: 26px;
+      color:#fff;
+      margin:20px;
+      margin-top: 20px;
+    }

@@ -1,0 +1,15 @@
+body{
+  animation-duration: 0.75s;
+  animation-name: transition;
+  animation-play-state: running;
+}
+ @keyframes transition {
+  from{
+    opacity:0;
+    transform: translateY(-10px);
+  }
+  to{
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
